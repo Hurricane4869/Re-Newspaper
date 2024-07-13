@@ -1,0 +1,4 @@
+repository "Re-Newspaper@unity_C3DDC1039483B97FCFC3@cloud"
+  path "/"
+    br "/main"
+    co "/main"
